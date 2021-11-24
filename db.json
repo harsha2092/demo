@@ -13,6 +13,9 @@
     },
     "module2": {
       "url": "http://localhost:3003/remoteEntry.js"
+    },
+    "module3": {
+      "url": "http://localhost:3004/remoteEntry.js"
     }
   }
 }
