@@ -6,5 +6,13 @@
   ],
   "app3": {
     "url": "http://localhost:3003/remoteEntry.js"
+  },
+  "moduleMetadata": {
+    "module1": {
+      url: "http://localhost:3002/remoteEntry.js",
+    },
+    "module2": {
+      url: "http://localhost:3003/remoteEntry.js",
+    }
   }
 }
